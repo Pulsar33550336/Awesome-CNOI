@@ -67,7 +67,8 @@ Awesome CNOI 是一份面向中文 OI 社区的软件索引，收录 OIer 日常
   题单指平台提供的题单功能。题单内容按 〈不收录〉 处理。
 
 - **出题** — 怎么产出一道题
-  - 题面：题面编辑、Typst 与 LaTeX 模板、题面渲染
+
+  不细分。
 
 - **判题** — 怎么把一批代码变成结果
   - OJ：自建 OJ、评测服务、判题接口
@@ -89,7 +90,7 @@ Awesome CNOI 是一份面向中文 OI 社区的软件索引，收录 OIer 日常
 - **杂项** — 归不进前六类、但对 OI 有实际关联
   - 游戏：以编程、算法为玩法的游戏，解谜类
   - 娱乐性项目：整活工具、绘板、梗图生成、OJ 皮肤与主题
-  - 排版：LaTeX、Typst、公式编辑与文档转换等通用工具。OI 专用的题面模板归 〈分类〉 的题面细目
+  - 排版：LaTeX、Typst、公式编辑、文档转换、中英文混排检查等通用工具。OI 专用的题面模板归 〈分类〉 的出题
 
   杂项收的是放不进前面六类、又能说清与 OI 关系的东西。实验性、一次性作品按同一标准判断：有实际关联的收进对应的细目，否则不收录。
 
@@ -201,7 +202,7 @@ Awesome CNOI 是一份面向中文 OI 社区的软件索引，收录 OIer 日常
 条目在 README 里渲染成一行：
 
 ```markdown
-- [Tuack-NG](https://github.com/tuackng/tuack-ng) — 从题面渲染、数据生成到评测对接的一体化出题工程。 `App(仅桌面端)` `CLI` `oi-specific` `AGPL-3.0` `active`
+- [Tuack-NG](https://github.com/tuackng/tuack-ng) — Tuack 的重写版本，用配置驱动题面渲染、造数据与评测对接。 `app` `cli` `oi-specific` `AGPL-3.0` `active`
 ```
 
 名称在前，简介首行紧随，标签置于末尾。不使用星级、评分、推荐等级。
@@ -236,7 +237,6 @@ entries/
 │   ├── problem-tools/    题目工具
 │   └── stats/            统计
 ├── set/                  出题
-│   └── statement/        题面
 ├── judge/                判题
 │   ├── oj/               OJ
 │   └── local/            本地评测系统
@@ -284,17 +284,17 @@ entries/
 name: Tuack-NG
 category: 出题
 platform: [app]
-form: [CLI]
-nature: [OI-specific]
+form: [cli]
+nature: [oi-specific]
 license: AGPL-3.0
-status: Active
+status: active
 homepage: https://github.com/tuackng/tuack-ng
 repo: https://github.com/tuackng/tuack-ng
 ---
 
 ## 简介
 
-从题面渲染、数据生成到评测对接的一体化出题工程。
+Tuack 的重写版本，用配置驱动题面渲染、造数据与评测对接。
 
 ## 限制
 
