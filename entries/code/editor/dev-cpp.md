@@ -7,6 +7,7 @@ form: [gui]
 nature: [general-purpose]
 license: GPL-2.0
 status: maintained
+featured: true
 homepage: https://www.embarcadero.com/free-tools/dev-cpp
 repo: https://github.com/Embarcadero/Dev-Cpp
 ---

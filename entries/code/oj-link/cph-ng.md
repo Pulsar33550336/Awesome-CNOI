@@ -7,6 +7,7 @@ form: [ide-plugin]
 nature: [oi-specific]
 license: AGPL-3.0
 status: active
+featured: true
 homepage: https://github.com/langningchen/cph-ng
 repo: https://github.com/langningchen/cph-ng
 ---

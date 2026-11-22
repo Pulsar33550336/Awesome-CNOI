@@ -7,6 +7,7 @@ form: [tui]
 nature: [general-purpose]
 license: Vim
 status: active
+featured: true
 homepage: https://www.vim.org/
 repo: https://github.com/vim/vim
 ---

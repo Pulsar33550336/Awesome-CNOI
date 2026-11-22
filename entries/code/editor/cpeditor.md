@@ -7,6 +7,7 @@ form: [gui]
 nature: [oi-specific]
 license: GPL-3.0
 status: active
+featured: true
 homepage: https://cpeditor.org/
 repo: https://github.com/cpeditor/cpeditor
 ---

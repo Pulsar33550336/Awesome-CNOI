@@ -7,6 +7,7 @@ form: [gui]
 nature: [general-purpose]
 license: Unfree
 status: active
+featured: true
 homepage: https://code.visualstudio.com/
 repo: https://github.com/microsoft/vscode
 ---

@@ -7,6 +7,7 @@ form: [gui]
 nature: [general-purpose]
 license: GPL-3.0
 status: active
+featured: true
 homepage: https://github.com/royqh1979/RedPanda-CPP
 repo: https://github.com/royqh1979/RedPanda-CPP
 ---

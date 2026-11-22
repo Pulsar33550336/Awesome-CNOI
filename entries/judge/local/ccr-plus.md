@@ -7,6 +7,7 @@ form: [gui]
 nature: [oi-specific]
 license: GPL-3.0
 status: maintained
+featured: true
 homepage: https://github.com/sxyzccr/CCR-Plus
 repo: https://github.com/sxyzccr/CCR-Plus
 ---

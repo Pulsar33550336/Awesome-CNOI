@@ -7,6 +7,7 @@ form: [ide-plugin]
 nature: [oi-specific]
 license: GPL-3.0
 status: active
+featured: true
 homepage: https://github.com/agrawal-d/cph
 repo: https://github.com/agrawal-d/cph
 ---

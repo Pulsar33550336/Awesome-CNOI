@@ -7,6 +7,7 @@ form: [gui]
 nature: [oi-specific]
 license: GPL-3.0
 status: active
+featured: true
 homepage: https://project-lemonlime.github.io/Project_LemonLime/
 repo: https://github.com/Project-LemonLime/Project_LemonLime
 ---

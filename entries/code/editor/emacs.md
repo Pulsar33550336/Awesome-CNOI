@@ -7,6 +7,7 @@ form: [tui, gui]
 nature: [general-purpose]
 license: GPL-3.0
 status: active
+featured: true
 homepage: https://www.gnu.org/software/emacs/
 repo: https://github.com/emacs-mirror/emacs
 ---

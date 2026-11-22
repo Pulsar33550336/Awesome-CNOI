@@ -7,6 +7,7 @@ form: [ide-plugin]
 nature: [oi-specific]
 license: MIT
 status: active
+featured: true
 homepage: https://github.com/yltx/vscode-luogu
 repo: https://github.com/yltx/vscode-luogu
 ---
